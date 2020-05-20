@@ -1,0 +1,6 @@
+${GREETING},
+
+This is a test email.
+
+All the best,
+xy
